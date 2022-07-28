@@ -1,1 +1,4 @@
 # nfl-qbr-predictor
+NFL athletes, especially quarterbacks, do not usually progress in a predictable manner. They have slumps, they sustain an injury, or they have the game of their career. Although sports analysts of professional teams often look at player statistics, I decided to take a more athletic ability as opposed to sport-specific approach.
+
+Using raw data from the past several NFL seasons, this script matches starting quarterbacks of professional football teams with their respective NFL Combine metrics to see if athletic ability is a good predictor of Quarterback Rating (QBR), a proprietary statistic created by ESPN in 2011 to measure the performance of quarterbacks in American football. It incorporates all of a quarterback's contributions to winning, including how he impacts the game on passes, rushes, turnovers, and penalties.
